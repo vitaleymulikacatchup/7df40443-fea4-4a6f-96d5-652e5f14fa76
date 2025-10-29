@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -137,7 +137,6 @@ export default function Home() {
               role: "Marketing Manager",
               company: "TechCorp",
               rating: 5,
-              content: "The best coffee shop in town! Their espresso is perfect every time, and the atmosphere is so welcoming. I come here every morning before work.",
               imageSrc: "https://images.pexels.com/photos/3801426/pexels-photo-3801426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Sarah Johnson"
             },
@@ -147,7 +146,6 @@ export default function Home() {
               role: "Software Engineer",
               company: "StartupXYZ",
               rating: 5,
-              content: "Incredible coffee quality and the staff really knows their craft. The latte art is beautiful and the taste is even better. Highly recommended!",
               imageSrc: "https://images.pexels.com/photos/9052312/pexels-photo-9052312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Michael Chen"
             },
@@ -157,7 +155,6 @@ export default function Home() {
               role: "Freelance Designer",
               company: "Creative Studio",
               rating: 5,
-              content: "This place has become my second office. Great coffee, comfortable seating, and perfect for getting work done. The cappuccino is my favorite!",
               imageSrc: "https://images.pexels.com/photos/4827509/pexels-photo-4827509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of Emily Rodriguez"
             },
@@ -167,7 +164,6 @@ export default function Home() {
               role: "Business Owner",
               company: "Local Business",
               rating: 5,
-              content: "The passion for coffee here is evident in every cup. From the bean selection to the brewing technique, everything is top-notch. A true coffee lover's paradise.",
               imageSrc: "https://images.pexels.com/photos/6864505/pexels-photo-6864505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Portrait of David Kim"
             }

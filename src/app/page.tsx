@@ -36,7 +36,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Freshly Roasted Coffee Every Day"
+          title="Coffee Every Day"
           description="Experience the perfect blend of premium coffee beans, expertly crafted beverages, and a warm, welcoming atmosphere at Brew & Bean."
           tag="Premium Coffee"
           tagIcon={Coffee}
@@ -50,7 +50,7 @@ export default function Home() {
               href: "products"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/26492562/pexels-photo-26492562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/459335/pexels-photo-459335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Cozy coffee shop interior"
           imagePosition="right"
         />

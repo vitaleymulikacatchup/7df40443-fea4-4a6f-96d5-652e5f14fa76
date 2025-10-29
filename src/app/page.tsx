@@ -75,7 +75,7 @@ export default function Home() {
 
       <div id="products" data-section="products">
         <ProductCardTwo
-          title="Featured Coffee Menu"
+          title="Coffee Menu"
           description="Discover our signature coffee drinks, each crafted with premium beans and expert technique"
           tag="Menu"
           tagIcon={Coffee}
@@ -175,7 +175,7 @@ export default function Home() {
         <ContactCenter
           tag="Visit Us"
           tagIcon={MapPin}
-          title="Find Your Perfect Coffee Spot"
+          title="Find Your Spot"
           description="Join our community of coffee enthusiasts and stay updated with our latest blends, events, and special offers."
           inputPlaceholder="Enter your email"
           buttonText="Subscribe"
